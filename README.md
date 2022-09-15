@@ -1,9 +1,6 @@
 ### Hey 👋
 
-I'm a Machine Learning Engineer
-
-### Bio
-
+Here's what I've been working on:
 - 🌊 Fluid power and hydraulics simulations
 - ⚙️ Mechanical design and analysis
 - 🔧 Building custom [design and analysis tools](https://effmap.herokuapp.com/) and [dashboards](https://hsu-performance.hydreco.uk/)
